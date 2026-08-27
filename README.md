@@ -17,7 +17,7 @@ WebGL / Three.js
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/calculadora-3d.git
+git clone https:[//github.com/seu-usuario/calculadora-3d.git](https://github.com/PhenriqueeS/Calculadora-3D)
 
 
 Entre na pasta do projeto:
