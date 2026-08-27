@@ -11,8 +11,8 @@ Suporte a diferentes valores e expressões matemáticas.
 🛠️ Tecnologias
 HTML
 CSS
-JavaScript
-WebGL / Three.js
+Java Script
+
 📦 Como executar
 
 Clone o repositório:
